@@ -2,7 +2,7 @@
 layout: post
 title: Math
 data: 2021-08-09 21:37:51
-categories: Update
+categories: jekyll
 ---
 
 # Contents
@@ -49,7 +49,7 @@ int main()
 ### History of Calculus
 
 $$
-a+b=c
+a+b=c\tag1
 $$
 
 [这是我的github]([18-loser/test (github.com)](https://github.com/18-loser/test)) 
