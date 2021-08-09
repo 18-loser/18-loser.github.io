@@ -4,30 +4,13 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+# Introduction
+<br/> 
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
+> 🙂我是一名学生，目前在研究数据科学。\
+> 🙃创建博客是为了整理那天我学到的知识。
 
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
+- [GitHub]([18-loser (Haolong Sun) (github.com)](https://github.com/18-loser))
+- [LeetCode]([拉格朗日 - 力扣（LeetCode） (leetcode-cn.com)](https://leetcode-cn.com/u/aacking/))
+- [Acwing]([个人空间 - AcWing](https://www.acwing.com/user/myspace/index/95800/))
 
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
