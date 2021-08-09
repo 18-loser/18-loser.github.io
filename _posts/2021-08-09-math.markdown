@@ -1,0 +1,80 @@
+---
+layout: post
+title: Math
+data: 2021-08-09 21:37:51
+categories: Update
+---
+
+# Contents
+
+[TOC]
+
+# Chapter All
+
+## Introduction
+
+### Preliminary Remarks
+
+These Notes provide an introduction to 20th century mathematics, and in particular to Mathematical Analysis, which roughly speaking is the “in depth” study of Calculus. All of the Analysis material from B21H and some of the material from B30H is included here.
+
+​	Some of the motivation for the later material in the course will come from B23H, which is normally a co-requisite for the course. We will not however formally require this material.
+
+ The material we will cover is basic to most of your subsequent mathematics courses (e.g. differential equations, differential geometry, measure theory, numerical analysis, to name a few), as well as to much of theoretical physics, engineering, probability theory and statistics. Various interesting applications are included; in particular to fractals and to differential and integral equations. There are also a few remarks of a general nature concerning logic and the nature of mathematical proof, and some discussion of set theory. There are a number of Exercises scattered throughout the text. The Exercises are usually simple results, and you should do them all as an aid to your understanding of the material. Sections, Remarks, etc. marked with a are non-examinable material, but you should read them anyway. They often help to set the other material in context as well as indicating further interesting directions. There is a list of related books in the Bibliography.
+
+| asd    | asdas  | asdasd   |
+| ------ | ------ | -------- |
+| asdasd | asdasd | asdasdas |
+
+```c++
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int a, b;
+    cin >> a >> b;
+    return 0;
+}
+```
+
+​	这是我可爱的女朋友 Typora 中有“首行缩进”选项，也可以通过在 css 的适当位置加 “text-indent:2em” 进行设置（ css 还是比较复杂）
+
+> 这是我比较担心的就是
+>
+> 这样啥事
+>
+> ！必要
+
+### History of Calculus
+
+$$
+a+b=c
+$$
+
+[这是我的github]([18-loser/test (github.com)](https://github.com/18-loser/test)) 
+
+<img src="https://gitee.com/shl1122/pic-bed/raw/master//img/202108082340799.png" alt="image-20210808234024688"  />
+
+这是我的
+
+### Why “Prove” Theorems?
+
+
+
+## Some Elementary Logic
+
+### Mathematical Statements
+
+### asdasdas
+
+
+
+## saonsad
+
+### asdasd
+
+#### 24323
+
+#### 撒大苏打
+
