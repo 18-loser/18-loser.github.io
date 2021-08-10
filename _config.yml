@@ -43,6 +43,13 @@ tag_dir: tag/
 paginate: 15
 paginate_path: "/page/:num/"
 
+# 评论配置
+valine_comment:
+  enable: true
+  leancloud_appid: Fg1gHx69XSc2FbVcE9HOdrjp-gzGzoHsz
+  leancloud_appkey: QAJmfgUURMaFWPkWzqf9EQBB
+  placeholder: "请在此处留下你的评论（昵称输入 QQ 号可以自动获取头像和昵称）"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

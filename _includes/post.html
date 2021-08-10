@@ -12,4 +12,9 @@
 	<div class="post-content">
 		{{ content }}
 	</div>
+
+	{% if site.valine_comment.enable %}
+	<hr>
+ 	<div id="comments"></div>
+	{% endif %}
 </article>
