@@ -7,7 +7,8 @@ categories: jekyll
 
 # Contents
 
-[TOC]
+* 目录
+{:toc}
 
 # Chapter All
 
