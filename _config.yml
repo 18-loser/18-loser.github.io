@@ -22,17 +22,19 @@ title: Blog
 author: SHL
 email: 2218017113@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog by SHL
+  Haolong SUN | Blog
 baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "https://18-loser.github.io/SHL.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: 18-loser
-highlighter: rouge
+# highlighter: rouge
 markdown: kramdown
 svg:
   optimize: true
 # Build settings
 # theme: minima
-highlighter-theme: monokai
+highlighter-theme: vim
+
+
 date_format: "%Y-%M-%D"
 plugins:
   - jekyll-feed
