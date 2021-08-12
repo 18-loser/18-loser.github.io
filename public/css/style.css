@@ -1,6 +1,7 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
-@import url('https://fonts.googleapis.com/css?family=Gelasio|Kulim+Park|Nanum+Myeongjo|Nanum+Gothic|Noto+Sans|Noto+Sans+KR|Roboto&display=swap');
 @import url(syntax/monokai.css);
+@import url('https://fonts.googleapis.com/css?family=Gelasio|Kulim+Park|Nanum+Myeongjo|Nanum+Gothic|Noto+Sans|Noto+Sans+KR|Roboto&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+SC:100,300,400,500,700,900);
 
 :root {
   --blue: #007bff;
@@ -49,7 +50,8 @@ body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	font-family: 'Gelasio', '微软雅黑' ,'Nanum Myeongjo', serif;
+	font-family: 'Gelasio', 'Noto Sans SC' , serif;
+	font-weight: 300;
 	color: #2c3e50;
 }
 
@@ -348,3 +350,35 @@ footer {
 		display: none;
 	}
 }
+
+
+/* 三线表 */
+table{
+	border-top: 1.5pt solid;
+	border-bottom: 1.5pt solid;
+	font-family:"Source Han Serif";
+	font-size:9pt;
+	text-align:center;
+    page-break-inside:avoid;
+}
+table td{
+	padding:7px;
+}
+table tr{
+	padding:7px;
+}
+
+p code, li code {
+	color: rgb(60, 112, 198);
+	background-color:#fefefe;
+	font-size: large;
+	font-family:'LM Mono 10', 'LM Roman 10','Times New Roman',Arial,simsun,sans-serif;
+	box-sizing: border-box; 
+	/*border: 1px #ced8e4 solid; */
+	border-right: 0px;
+	margin:  0 2px 0 2px ;
+	padding: 0 2px 0 2px;
+	border-radius: 2px 2px 2px 2px ; 
+   /**/ box-shadow: 0 0 1px 1px #c8d3df;  
+  }
+

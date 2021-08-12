@@ -31,7 +31,7 @@ markdown: kramdown
 svg:
   optimize: true
 # Build settings
-# theme: minima
+theme: minima
 highlighter-theme: vim
 
 
@@ -39,6 +39,7 @@ date_format: "%Y-%M-%D"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jemoji
 category_dir: category/
 tag_dir: tag/
 
