@@ -3,6 +3,7 @@ layout: post
 title: "数据操作"
 date: 2021-08-12 10:09:10 UTC+8
 category: Deep-Learning
+mathjax: true
 ---
 
 # 数据操作
