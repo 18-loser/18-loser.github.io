@@ -11,6 +11,7 @@ mathjax: true
 ## 数学期望
 
 数学期望就是随机变量的取值与取值概率乘积的和.
+
 $$
 X \sim p_{i} \Rightarrow E X=\sum x_{i} p_{i} \tag1
 $$
@@ -24,6 +25,7 @@ $$
 ## 伽马函数
 
 伽马函数的定义式 ${\Gamma(\alpha)=\int_0^{+\infty}x^{a-1}e^{-x}dx (a>0)}$,往下推到可得到 ${ (1) }$
+
 $$
 \Gamma(\alpha)=\left\{\begin{array}{l}\int_{0}^{+\infty} x^{\alpha-1} e^{-x} d x \\ \\ 2 \int_{0}^{+\infty} x^{2 \alpha-1} e^{-x^{2}} d x\end{array}\right.\tag1
 $$
@@ -33,6 +35,7 @@ $$
 $$
 
 由 ${(1)}$ ${(2)}$ 得出来下面的公式
+
 $$
 \Gamma(n+1)=n !
 $$
