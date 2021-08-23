@@ -352,21 +352,6 @@ footer {
 }
 
 
-/* 三线表 */
-table{
-	border-top: 1.5pt solid;
-	border-bottom: 1.5pt solid;
-	font-family:"Source Han Serif";
-	font-size:9pt;
-	text-align:center;
-    page-break-inside:avoid;
-}
-table td{
-	padding:7px;
-}
-table tr{
-	padding:7px;
-}
 
 p code, li code {
 	color: rgb(60, 112, 198);
@@ -382,3 +367,32 @@ p code, li code {
    /**/ box-shadow: 0 0 1px 1px #c8d3df;  
   }
 
+  table {
+	margin: auto;
+	width: 60%;
+  }
+
+ table tr {
+	border: 0;
+	border-top: 1px solid #ccc;
+	background-color: white;
+  }
+table tr:nth-child(2n) {
+	background-color: #F8F8F8;
+  }
+table tr th,
+table tr td {
+	font-size: 16px;
+	padding: 5px 10px;
+	text-align: left;
+  }
+table tr th {
+	font-weight: bold;
+	background-color: #f0f0f0;
+  }
+
+  img {
+	clear: both;
+    display: block;
+    margin: auto;
+  }
