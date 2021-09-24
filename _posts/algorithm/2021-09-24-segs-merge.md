@@ -1,3 +1,9 @@
+---
+layout: post
+title: "区间合并"
+date: 2021-09-24 22:49:22 UTC+8
+category: algorithm
+---
 # 区间合并
 
 ![绘图1](https://gitee.com/shl1122/pic-bed/raw/master//img/202109242226444.png)
