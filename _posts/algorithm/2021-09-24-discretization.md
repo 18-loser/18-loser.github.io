@@ -2,7 +2,7 @@
 layout: post
 title: "离散化"
 date: 2021-09-24 22:49:22 UTC+8
-category: algorithm
+category: Algorithm
 ---
 # 离散化
 

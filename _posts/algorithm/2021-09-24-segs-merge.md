@@ -2,7 +2,7 @@
 layout: post
 title: "区间合并"
 date: 2021-09-24 22:49:22 UTC+8
-category: algorithm
+category: Algorithm
 ---
 # 区间合并
 
